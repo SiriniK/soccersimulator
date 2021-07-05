@@ -38,3 +38,6 @@ class ViewController: UIViewController {
       }
 
 }
+
+//based on open scorce code from https://github.com/soonin/IOS-Swift-ScreenEdgePanGestures
+
